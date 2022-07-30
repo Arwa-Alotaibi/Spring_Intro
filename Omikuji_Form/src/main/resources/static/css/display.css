@@ -1,0 +1,20 @@
+
+h1{
+	text-align:center;
+}
+
+
+.Paragraph{
+	border:solid;
+  background-color: rgb(183, 211, 223);
+  padding: 15px;
+  font-size: large;
+ margin: 10px 0;
+    padding: 5px;  
+}
+
+
+.ancher-tag{
+text-align: center;
+	
+}
